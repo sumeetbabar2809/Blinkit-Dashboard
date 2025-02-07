@@ -128,7 +128,7 @@ This project provides hands-on experience with:
 1. **Home Page**  
    ![Home Page](images/1.png)
 
-1. **Slicer**  
+1.1 **Slicer**  
    ![Slicer](images/8.png)
 
 2. **Overview Page**  
